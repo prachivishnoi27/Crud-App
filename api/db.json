@@ -1,0 +1,30 @@
+{
+  "streams": [
+    {
+      "title": "My Stream",
+      "description": "This is a great stream",
+      "id": 1
+    },
+    {
+      "title": "React Course",
+      "description": "This is an awesome course by Stephan Grider",
+      "id": 2
+    },
+    {
+      "title": "I created this stream",
+      "description": "This was made by me!",
+      "id": 3
+    },
+    {
+      "title": "This is my new Stream",
+      "description": "created by Prachi",
+      "userId": "101031373943141768251",
+      "id": 4
+    },
+    {
+      "title": "Who",
+      "description": "This is testing stream",
+      "id": 5
+    }
+  ]
+}
